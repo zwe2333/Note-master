@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/addnote_clock"
+        android:icon="@mipmap/clock_nosign"
+        android:title="search"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/addnote_sign"
+        android:icon="@mipmap/star_nosign"
+        android:title="search"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/addnote_del"
+        android:title="删除"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/addnote_up"
+        android:title="置顶"
+        app:showAsAction="never"/>
+</menu>

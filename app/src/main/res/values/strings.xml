@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">记事本（本地版）</string>
+    <string name="main_name">记事本</string>
+    <string name="search">搜索</string>
+    <string name="title">标题</string>
+    <string name="content">内容</string>
+    <string name="time">时间</string>
+    <string name="add">添加</string>
+</resources>
